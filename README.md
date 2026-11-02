@@ -2,7 +2,7 @@
 
 ## Student Information
 - Name: Olarewaju Mujib Ishola
-- Matriculation Number: [Enter your matriculation number]
+- Matriculation Number: 25/17330
 - Programme: Computer Science
 - Course: COS 201
 
